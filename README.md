@@ -8,5 +8,8 @@ Repository contains several examples of uploading data into Firestore Native wit
 
 [ds_upload_complex.py](ds_upload_complex.py) Example of uploading more complex document into Firestore via datastoreio
 
-[fs_upload_complex.py](fs_upload_complex.py) Example of uploading more complex document into Firestore via custom PTransform  
+[fs_upload_complex.py](fs_upload_complex.py) Example of uploading more complex document into Firestore via custom PTransform    
 
+
+Description and explanation in following article [https://www.the-swamp.info/blog/uploading-data-firestore-using-dataflow/]
+(https://www.the-swamp.info/blog/uploading-data-firestore-using-dataflow/)
